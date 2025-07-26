@@ -478,9 +478,6 @@ namespace EldaraaApi.Data
                 new TrasfondoHabilidad { TrasfondoId = 16, HabilidadId = 10 },
                 new TrasfondoHabilidad { TrasfondoId = 16, HabilidadId = 16 }
             );
-
-
         }
     }
-
 }
